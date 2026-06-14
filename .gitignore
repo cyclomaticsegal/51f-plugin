@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Defensive: never publish private 51Folds build context.
+# These are not part of this repo; this guard stops them being added by mistake.
+model-detail/
+ui-workflow/
+*Build-Playbook*.md
+*Hypotheses*.md

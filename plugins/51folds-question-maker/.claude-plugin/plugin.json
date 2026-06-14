@@ -1,0 +1,10 @@
+{
+  "name": "51folds-question-maker",
+  "version": "0.1.0",
+  "description": "Turns a rough idea into a submission-ready prediction question: one falsifiable hypothesis statement, two to five mutually exclusive outcomes, and an accompanying context of no more than 300 words. Grounds every build in current web evidence.",
+  "author": {
+    "name": "Simon Segal"
+  },
+  "license": "MIT",
+  "keywords": ["hypothesis", "forecasting", "prediction", "falsifiable", "51folds"]
+}

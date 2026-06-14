@@ -1,0 +1,14 @@
+{
+  "name": "51folds-marketplace",
+  "owner": {
+    "name": "Simon Segal"
+  },
+  "description": "Plugins for building submission-ready prediction questions.",
+  "plugins": [
+    {
+      "name": "51folds-question-maker",
+      "source": "./plugins/51folds-question-maker",
+      "description": "Turns a rough idea into a falsifiable hypothesis question, two to five mutually exclusive outcomes, and an accompanying context of no more than 300 words, grounded in current web evidence."
+    }
+  ]
+}
