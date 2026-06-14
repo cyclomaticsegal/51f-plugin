@@ -17,7 +17,7 @@ Download `dist/51folds-question-maker.plugin`, then in Claude:
 Inside Claude:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
+/plugin marketplace add cyclomaticsegal/51f-plugin
 /plugin install 51folds-question-maker@51folds-marketplace
 /reload-plugins
 ```
@@ -34,7 +34,7 @@ Every build verifies present-day facts with web search, then returns the triplet
 ## Repository layout
 
 ```
-51folds-marketplace/
+51f-plugin/
   .claude-plugin/marketplace.json   catalog the marketplace install reads
   plugins/
     51folds-question-maker/         the plugin source (installed from here)
